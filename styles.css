@@ -1,6 +1,9 @@
 /**
  * Main stylesheet
  */
-html, body {
-    margin: 0;
+html,
+body {
+  margin: 0;
 }
+
+/* Modification */
